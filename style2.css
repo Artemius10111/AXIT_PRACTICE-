@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&family=Roboto:wght@100;500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
-/* font-family: 'Raleway', sans-serif; */
-/* font-family: 'Roboto', sans-serif; */
-/* font-family: 'Rubik', sans-serif; */
+
 *{
 	padding: 0;
 	margin: 0;
@@ -45,23 +43,7 @@ ul li{list-style: none;}
 img{vertical-align: top;}
 
 h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
-/*--------------------*/
-/* Применяется для всех 4 сторон
-padding: 1em;
 
-/* По вертикали | По горизонтали */
-/* padding: 5% 10%; */
-
-/* Сверху | По горизонтали | Снизу */
-/* padding: 1em 2em 2em; */
-
-/* Сверху | Справа | Снизу | Слева */
-/* padding: 2px 1em 0 1em; */
-
-/* Глобальные значения */
-/* padding: inherit;
-padding: initial;
-padding: unset; */
 body{
 	background-color: black;
 	font-family: 'Kanit', sans-serif;
